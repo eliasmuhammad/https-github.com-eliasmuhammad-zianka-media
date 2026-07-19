@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Explorer",
+  "description": "An interactive application to connect your GitHub account via OAuth, browse your repositories, explore branches and files, view code, and see repo insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
